@@ -5,7 +5,7 @@
 🔧 Experienced in:
 - End-to-end iOS feature development
 - CI/CD automation & Fastlane
-- Clean Architecture (MVC, MVVM, VIPER, Clean Swift)
+- Clean Architecture (MVP, MVVM, VIPER, Clean Swift)
 - Agile teams and cross-functional collaboration
 
 🎯 I love solving real-world problems through intuitive design and performance-driven code. Passionate about continuous learning and mentoring junior devs.
