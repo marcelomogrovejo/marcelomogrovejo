@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Marcelo Mogrovejo
 
-<!--
-**marcelomogrovejo/marcelomogrovejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 iOS Developer with 7+ years of experience building scalable, user-focused apps with Swift, SwiftUI, and Objective-C.
 
-Here are some ideas to get you started:
+🔧 Experienced in:
+- End-to-end iOS feature development
+- CI/CD automation & Fastlane
+- Clean Architecture (MVC, MVVM, VIPER, Clean Swift)
+- Agile teams and cross-functional collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I love solving real-world problems through intuitive design and performance-driven code. Passionate about continuous learning and mentoring junior devs.
+
+📦 Featured Projects:
+- 🏦 **SuperDigital Fintech App** — Full iOS architecture & onboarding customization for LATAM.
+- 🚛 **Proflota** — Built driver app for logistics, from scratch, using Clean Swift + Core Data.
+- 🏫 **Educational App** — Improved stability & UX with deep bug fixing & testing.
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/marcelo-mogrovejo/) | [Email](mailto:marcelomogrovejo@gmail.com)
+
+🌱 Currently exploring Flutter & SwiftData.
