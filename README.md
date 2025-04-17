@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marcelo Mogrovejo
+# 👋 Hi, I'm Marcelo
 
 🚀 iOS Developer with 7+ years of experience building scalable, user-focused apps with Swift, SwiftUI, and Objective-C.
 
@@ -14,6 +14,8 @@
 - 🏦 **SuperDigital Fintech App** — Full iOS architecture & onboarding customization for LATAM.
 - 🚛 **Proflota** — Built driver app for logistics, from scratch, using Clean Swift + Core Data.
 - 🏫 **Educational App** — Improved stability & UX with deep bug fixing & testing.
+
+💼 You can check [my portfolio](https://marcelomogrovejo.gitlab.io/my-ios-portfolio/)
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/marcelo-mogrovejo/) | [Email](mailto:marcelomogrovejo@gmail.com)
 
